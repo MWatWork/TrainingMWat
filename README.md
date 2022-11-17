@@ -5,7 +5,7 @@
 ## Changes to kdb+taq
 
 ### 2022.11.17 (Adding comments to code for tests)
-added comments to util.q, tq.q and README
+added comments to util.q, sym.q, tq.q and README
 
 ### 2022.01.06 (`Bid_Price` type fix in tq.q)
 changing `Bid_Price` from real to float to avoid `Bid_Price`, `Offer_Price` type inconsistency
